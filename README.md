@@ -2,7 +2,7 @@
 
 Meu nome é Bryan Henrique 
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguaguem JavaScript
 - Utilizo eese espaço pra minha organização e compartilhamento dos meu projetos desenvolvidos
 
